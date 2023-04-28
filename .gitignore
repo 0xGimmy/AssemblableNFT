@@ -11,3 +11,5 @@ typechain-types
 cache
 artifacts
 
+# Hardhat deployments
+deployments/localhost
